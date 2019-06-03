@@ -1,7 +1,8 @@
 # Meizi_Hygrothermo
 
 Home-assistant sensor platform for Meizi Meijia BT Hygrothermo temperature and humidity sensor.
-
+![效果图1](img-folder/1.jpg?raw=true)
+![效果图2](img-folder/2.jpg?raw=true)
 ## Usage
 
 To use, add the following to your `configuration.yaml` file:
