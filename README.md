@@ -1,8 +1,15 @@
-# Meizi_Hygrothermo
+# Meizu_Hygrothermo
 
-Home-assistant sensor platform for Meizi Meijia BT Hygrothermo temperature and humidity sensor.
+
+Home-assistant sensor platform for Meizu Meijia BT Hygrothermo temperature and humidity sensor.
 ![效果图1](img-folder/1.jpg?raw=true)
 ![效果图2](img-folder/2.jpg?raw=true)
+
+Theory of all devices that can run python3 and support Bluetooth
+According to feedback, the gateway can use
+* PHICOMM N1
+* Raspberry Pi full range
+
 ## Usage
 
 To use, add the following to your `configuration.yaml` file:
