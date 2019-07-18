@@ -24,7 +24,7 @@ sensor:
 ```
 
 - mac is your sensor Bluetooth MAC
-- host is your Gateway Bluetooth MAC (I'm using a raspberry pi)
+- host is your Gateway IP (I'm using a raspberry pi)
 - mac and host is required.
 - default "scan" interval is every 30 seconds.
 
